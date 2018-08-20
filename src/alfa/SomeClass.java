@@ -10,7 +10,7 @@ public class SomeClass {
 	
 	public void someSecond() {
 		
-		int i=1; // fi
+		int i=1; // fi second 
 		;
 	}
 
