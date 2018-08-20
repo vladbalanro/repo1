@@ -10,7 +10,7 @@ public class SomeClass {
 	
 	public void someSecond() {
 		
-		int i=1; // omegac change 2
+		int i=1; // fi
 		;
 	}
 
