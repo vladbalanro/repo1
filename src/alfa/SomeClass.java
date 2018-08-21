@@ -10,7 +10,7 @@ public class SomeClass {
 	
 	public void someSecond() {
 		
-		int i=1; // some modification on same line
+		int i=1; // some modification on same line + fi second
 		;
 	}
 
