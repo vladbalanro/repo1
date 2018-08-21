@@ -5,6 +5,7 @@ public class SomeClass {
 	public void someMethod() {
 		
 		// some independent add
+		// second indep
 		
 	}
 	
