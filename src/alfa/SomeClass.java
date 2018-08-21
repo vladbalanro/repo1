@@ -11,7 +11,7 @@ public class SomeClass {
 	
 	public void someSecond() {
 		
-		int i=1; // some modification on same line + fi second
+		int i=1; // some modification on same line + fi second PI1 SECOND COMMON
 		;
 	}
 
