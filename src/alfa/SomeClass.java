@@ -10,7 +10,7 @@ public class SomeClass {
 	
 	public void someSecond() {
 		
-		int i=1; // PI MODIFICATION
+		int i=1; // pi modification
 		;
 	}
 
