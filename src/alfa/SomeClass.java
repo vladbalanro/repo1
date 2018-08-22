@@ -13,6 +13,9 @@ public class SomeClass {
 		
 		int i=1; // some modification on same line + fi second PI1 SECOND COMMON
 				// + merge
+		
+		
+		// INTEGRATED SOME 3 MODIF
 		;
 	}
 
